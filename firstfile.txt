@@ -2,6 +2,6 @@ first file updated
 
 change made in branch feature1
 
-change made by sami
-signed by sami
-finalized by sami
+change made by lolo
+signed by lolo
+finalized by lolo
